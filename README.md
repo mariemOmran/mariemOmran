@@ -12,8 +12,12 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVnbDU5NTc4MWZmdWlqeTZ1ZzhxY3IyZnFqdHJ1am0ycmw0MGM0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" alt="animated gif" height="150">
   <h1 style="text-align: left; color: purple;">Hi 👋, I'm Mariem Omran</h1>
-  <h3 style="text-align: left;">Software Engineer Full Stack Developer (.NET and Angular)</h3>
+  <h3 style="text-align: left;">Software Engineer / Full Stack Developer (.NET and Angular)</h3>
+  <a href="https://drive.google.com/file/d/1ux5s9gAGfoIqahuLN7MYq9NllJM9YJ7L/view?usp=drive_link" target="_blank">
+  <button>My CV</button>
 </div>
+
+</a>
 
 <hr>
 
