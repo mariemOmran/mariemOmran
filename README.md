@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<div align="center">
+<div align="left">
   <img src="https://i.gifer.com/JXA0.gif" alt="animated gif" height="200">
   <h1 style="text-align: left;">
     <span style="color: purple;">Hi 👋, I'm Mariem Omran</span>
@@ -20,8 +20,8 @@
 
 <hr>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://codepen.io/mariemomran" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
   </a>
@@ -35,8 +35,8 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="40" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40"/>
@@ -60,15 +60,15 @@
 
 <hr>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariemomran&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mariemomran&show_icons=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariemomran" alt="GitHub Streak Stats" />
 </p>
 
